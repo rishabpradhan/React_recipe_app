@@ -56,3 +56,10 @@ Usage
 Type in a keyword in the search bar (e.g., "pizza" or "salad").
 Press the search button to retrieve food recipes from the Spoonacular API.
 View the search results in the list, and click a recipe for more details.
+
+Display of the website and foodData , Recipe and Ingrediants
+![099b2b1d833ef5a562c0e274d44ba340-0](https://github.com/user-attachments/assets/c4d9fe78-ab79-41a5-bfb9-92ba808e138d)
+![099b2b1d833ef5a562c0e274d44ba340-1](https://github.com/user-attachments/assets/040d44ef-792c-4a7b-90bb-b0703c5f288c)
+![099b2b1d833ef5a562c0e274d44ba340-2](https://github.com/user-attachments/assets/de4c35b1-b42c-4f4c-bf01-801cc181a215)
+![099b2b1d833ef5a562c0e274d44ba340-3](https://github.com/user-attachments/assets/0d87b334-930b-4282-aa1f-1efa0996473c)
+
